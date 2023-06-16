@@ -7,3 +7,7 @@ Stay in touch for more and more :)
 Here's the link to the dataset i used : https://ourworldindata.org/covid-deaths
 
 Here's my Tableau's dashboard link : https://public.tableau.com/shared/KFC5K7CR3?:display_count=n&:origin=viz_share_link
+
+
+
+<img width="1466" alt="Screenshot 2023-06-16 at 21 23 32" src="https://github.com/AdamGuesmia/Covid-19-Analysis/assets/104517014/e8cafb68-f9bc-4ceb-b35b-db4a64601439">
