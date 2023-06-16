@@ -1,8 +1,7 @@
-# Portfolio Project Repository
+## Covid case study 
+ 
+This Repository holds all of the code and queries from the covid 19 projects i worked on.
 
-
-## Covid 2023 project 
-This Repository will hold all of the code and queries from the Portfolio Projects i'll create.
 Stay in touch for more and more :)
 
 Here's the link to the dataset i used : https://ourworldindata.org/covid-deaths
